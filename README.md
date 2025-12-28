@@ -1,4 +1,4 @@
-#  Hello thwew!:
+#  Hello there!:
 I am a second year college student at an early yet decisive stage of my technical journey with a strong foundation in C++ and intermediate proficiency in Python complemented by hands on experience through a machine learning based project. What defines me is not the extent of what I already know but the intensity with which I learn question and iterate. I am deeply curious about machine learning and actively developing my data structures and algorithms skills while consistently seeking clarity at both conceptual and implementation levels. I approach problems with first principles thinking and a bias toward innovative solutions whether the challenge is small or complex. I am eager to contribute to projects take ownership of learning curves and grow in environments that demand intellectual honesty rigor and impact and I commit fully to any responsibility I take on with discipline intent and long term perspective.
 
 
