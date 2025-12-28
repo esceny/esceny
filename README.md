@@ -1,5 +1,5 @@
-# 💫 About Me:
-i am a second year college student currently starting phase of learning the tech stuff i have learned c++ basics and python intermediate i also built a project a basic ml based one i am very curipusly learning and exploring the field of machine learning and also while developing dsa skills i am extremely willing to help for projects solving basic problems my expertise is giving innovative solutions to smallest to biggest problem i look forward to opportunities and spaces to grow and expose myself to more things and i also aim to provide my full to whatever work i put myself on 
+#  Hello thwew!:
+I am a second year college student at an early yet decisive stage of my technical journey with a strong foundation in C++ and intermediate proficiency in Python complemented by hands on experience through a machine learning based project. What defines me is not the extent of what I already know but the intensity with which I learn question and iterate. I am deeply curious about machine learning and actively developing my data structures and algorithms skills while consistently seeking clarity at both conceptual and implementation levels. I approach problems with first principles thinking and a bias toward innovative solutions whether the challenge is small or complex. I am eager to contribute to projects take ownership of learning curves and grow in environments that demand intellectual honesty rigor and impact and I commit fully to any responsibility I take on with discipline intent and long term perspective.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ i am a second year college student currently starting phase of learning the tech
 ![](https://nirzak-streak-stats.vercel.app/?user=esceny&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esceny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=esceny&icon=0&color=0)](https://visitcount.itsvg.in)
